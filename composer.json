@@ -9,6 +9,10 @@
     {
         "name": "Vu Thanh Tai",
         "email": "thanhtai96nd@gmail.com"
-    }]
+
+    }],
+    "require": {
+        "php": ">=5.3.0"
+    },
     
 }
