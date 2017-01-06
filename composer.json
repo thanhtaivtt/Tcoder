@@ -1,7 +1,7 @@
 {
 
-    "name": "thanhtaivtt/tcoder-framework",
-    "description": "Tcoder-framework",
+    "name": "thanhtaivtt/tcoder",
+    "description": "Tcoder",
     "keywords": ["framework", "tcoder"],
     "license": "MIT",
     "type": "project",
